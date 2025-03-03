@@ -3,9 +3,9 @@
 .SYNOPSIS
 #This script is to audit linux servers their privileged accounts.
 #  Script for privileged accounts
-# version MS TEAMS  1.6.0.1381
+# version 01 Debian
 # Autor: Saith Barreto
-# Fecha: Septiembre 2021
+# Fecha: Septiembre 2020
 #*******End Comment**************
 #PATH=$PATH:/sbin:/bin:/usr/sbin:/usr/bin
 
